@@ -1,0 +1,5 @@
+senderEmail: "<Sender Email>"
+mailServer: "<Your SMTP Server>"
+tcpPort: "<TCP Port 587 or 25 If TLS on port 587 doesn't work, try using port 465 and/or using SSL instead>"
+userName: "<This is specific mailjet API Keys/token, but if you are using a different mailservice please just add another yaml-line of code with the provided API keys>"
+password: "<This is specific mailjet API Keys/token, but if you are using a different mailservice please just add another yaml-line of code with the provided API keys>"
